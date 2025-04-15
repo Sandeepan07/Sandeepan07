@@ -2,13 +2,11 @@
 
 🙋‍♂️ All about me is at My Website
 
-🔭 I’m currently working on Something Intresting.
+🔭 I’m currently working on Something Intresting
 
-🌱 I’m currently learning FULL Stack
+🌱 I’m DevOps Engineer 
 
-👯 I’m looking to collaborate for FRONT-END
-
-🤔 I’m looking for help with Competitive Programming
+👯 I’m looking to collaborate for Cloud Computing 
 
 💬 Ask me about anything, Except Maths 😅
 
